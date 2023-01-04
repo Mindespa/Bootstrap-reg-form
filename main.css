@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+    
+}
+
+.blue{
+    background-color: rgba(0, 110, 255, 0.685);
+}
+
+.white-border{
+    border: 1px solid white;
+}
+.white{
+    background-color: white;
+    margin: 25px;
+    
+}
+.white > * {
+    margin: 25px;
+}
+
+.spacer{
+    margin-top: 100px;
+}
+
+
+.terms{
+    display: inline-block;
+}
